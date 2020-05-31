@@ -1,0 +1,60 @@
+styling of html file
+
+body{
+	background-color: lightcyan;
+	border: 80px solid lightseagreen;
+	outline-style: solid;
+}
+
+h1{
+	text-align: center;
+	width: 100%;
+	font-size: 250%;
+	text-decoration: double underline;
+}
+
+h2{
+	font-size: 150%;
+	padding: 10px;
+	border: 1px solid midnightblue;
+}
+
+p{
+	font-size: 120%;
+	padding: 15px;
+	background-color: mistyrose;
+
+}
+ul{
+	font-size: 110%;
+	line-height: 1.5em;
+    list-style-type: square;
+}
+
+ol{
+	font-size: 110%;
+	line-height: 1.5em;
+	list-style-type: upper-roman;
+}
+
+span{
+	padding: 60px;
+	margin: 50px;	
+}
+
+footer{
+	font-size: 150%;
+	text-align: center;
+	border: 1px black solid;
+	padding: 20px;
+	outline-style: solid;
+}
+
+a:hover{
+	background-color: lightyellow;
+	text-transform: uppercase;
+}
+
+a:visited{
+	color: blue;
+}
