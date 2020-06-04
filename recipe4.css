@@ -1,0 +1,64 @@
+css version
+
+body{
+	background-color: lightcyan;
+	border: 80px solid lightseagreen;
+	outline-style: solid;
+}
+h1{
+	text-align: center;
+	width: 100%;
+	font-size: 250%;
+	text-decoration: double underline;
+}
+h2{
+	font-size: 150%;
+	padding: 10px;
+	border: 1px solid midnightblue;
+	background-color: dodgerblue ;
+	text-align: center;
+}
+p{
+	font-size: 120%;
+	padding: 15px;
+	background-color: mistyrose;
+}
+.bullets{
+	font-size: 110%;
+	line-height: 1.5em;
+    list-style-image: url("https://img.icons8.com/emoji/48/000000/backhand-index-pointing-right-medium-light-skin-tone.png") ;
+    padding-left: 60px;
+}
+.list{
+	font-size: 110%;
+	line-height: 1.5em;
+	list-style-type: upper-roman;
+}
+span.em{
+	font-style: italic;	
+}
+span.bold{
+	font-weight: bold;
+	text-decoration: underline;
+}
+span.italic{
+	color: red;
+}
+.img{
+	padding-left: 120px;
+}
+footer{
+	font-size: 150%;
+	text-align: center;
+	border: 1px black solid;
+	padding: 20px;
+	outline-style: solid;
+}
+a:hover{
+	background-color: lightyellow;
+	text-transform: uppercase;
+}
+
+a:visited{
+	color: blue;
+}
