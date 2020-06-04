@@ -1,1 +1,1 @@
-# my-html project
+# my-html recipe project
